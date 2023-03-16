@@ -2,7 +2,7 @@
 //  main.cpp
 //  Rock Paper Scissors!
 //
-//  Created by Jordan Davis, Isaiah Ezeb, & David Holguin on March 2, 2023
+//  Created by Jordan Davis & David Holguin on March 2, 2023
 
 #include <iostream>
 
